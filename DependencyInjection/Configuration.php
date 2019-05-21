@@ -18,7 +18,7 @@ class Configuration implements ConfigurationInterface
     public function getConfigTreeBuilder()
     {
         $treeBuilder = new TreeBuilder();
-        $rootNode = $treeBuilder->root('os2_display_citation-portrait');
+        $rootNode = $treeBuilder->root('bibsdb_citation_portrait');
 
         // Here you should define the parameters that are allowed to
         // configure your bundle. See the documentation linked above for
