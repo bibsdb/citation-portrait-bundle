@@ -1,5 +1,4 @@
 angular.module('toolsModule').directive('citationPortraitBodytextEditor', function(){
-	console.log("hej");
   return {
     restrict: 'E',
     replace: true,
