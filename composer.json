@@ -2,6 +2,7 @@
     "name": "bibsdb/citation-portrait-bundle",
     "description": "Bibsdb citation-portrait template.",
     "type": "symfony-bundle",
+    "minimum-stability": "dev",
     "require": {
     },
     "autoload": {
