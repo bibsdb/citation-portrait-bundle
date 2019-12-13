@@ -8,12 +8,12 @@
     "edit": "citation-portrait-edit.html",
     "preview": "citation-portrait.html",
     "css": "citation-portrait.css",
-    "js": "bundles/os2displaydefaulttemplate/templates/js/baseSlide.js"
+    "js": "bundles/bibsdbcitationportrait/templates/js/citationSlide.js"
   },
   "orientation": "portrait",
-  "slide_type": "base",
+  "slide_type": "citation",
   "media_type": "image",
-  "script_id": "base",
+  "script_id": "citation",
   "ideal_dimensions": {
     "width": "1080",
     "height": "1920"
